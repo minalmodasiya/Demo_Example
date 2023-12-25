@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
             return;
         }
         setContentView(R.layout.activity_main);
-
+        // Minal
         mViewPager = (ViewPager) findViewById(R.id.viewPagerMain);
         textView = (TextView)findViewById(R.id.txt_q_total);
         submit= (TextView)findViewById(R.id.submit);
